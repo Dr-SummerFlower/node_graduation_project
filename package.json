@@ -1,0 +1,12 @@
+{
+  "name": "node_graduation_project",
+  "version": "1.0.0",
+  "description": "该存储库用来制作一个node毕设项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
